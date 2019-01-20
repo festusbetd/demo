@@ -1,0 +1,32 @@
+[2019-01-20 09:35:05.644] [exthost] [info] extension host started
+[2019-01-20 09:35:05.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:05.663] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-20 09:35:05.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:05.667] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-20 09:35:05.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:05.690] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-20 09:35:05.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:05.805] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-20 09:35:05.811] [exthost] [info] eager extensions activated
+[2019-01-20 09:35:21.635] [exthost] [info] extension host started
+[2019-01-20 09:35:21.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:21.651] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-20 09:35:21.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:21.656] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-20 09:35:21.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:21.679] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-20 09:35:21.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-20 09:35:21.792] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-20 09:35:21.799] [exthost] [info] eager extensions activated
+[2019-01-20 09:35:27.963] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-01-20 09:35:27.963] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-01-20 11:05:01.699] [exthost] [info] extension host started
+[2019-01-20 11:05:01.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-20 11:05:01.724] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-20 11:05:01.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-20 11:05:01.751] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-20 11:05:01.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-20 11:05:01.844] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-20 11:05:02.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-20 11:05:02.138] [exthost] [info] ExtensionService#loadCommonJSModule /snap/vscode/74/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-20 11:05:02.145] [exthost] [info] eager extensions activated

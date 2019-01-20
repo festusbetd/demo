@@ -1,0 +1,33 @@
+{
+    "telemetry.machineId": "0d97befbd99e8e066fe44607154496e9d6e737c3076fa555b1b88b6d9222a305",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/var/www/html",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///var/www/html/lumen-realworld-example-app",
+            "file:///var/www/html/authors"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/var/www/html/lumen-realworld-example-app",
+                "external": "file:///var/www/html/lumen-realworld-example-app",
+                "path": "/var/www/html/lumen-realworld-example-app",
+                "scheme": "file"
+            },
+            "backupPath": "/var/www/html/authors/~/.vscode-root/Backups/3351e7f6fae549026ebcca9237af350b",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 27,
+                "width": 1366,
+                "height": 741
+            }
+        }
+    }
+}
